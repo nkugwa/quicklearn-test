@@ -1,0 +1,29 @@
+body{
+    width: 100%;
+    margin: 30px;
+}
+.head{
+    text-align: center;
+}
+.title{
+    text-align:center;
+    color: blue;
+    padding: 10px; 
+}
+.tutorials{
+    color: rgb(59, 58, 126);
+    font-size: 20px;
+    display: block;
+    padding: 9px;
+    margin:0px;
+    background-color: purple;
+}
+.tutorials li{
+    display: -webkit-box;
+    padding: 8px;
+    margin: 3px;
+    background-color: violet;
+}
+#myvideo{
+    width: 100%;
+}
